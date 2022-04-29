@@ -14,6 +14,6 @@ Estarei proveitando o mesmo para praticar um pouco de Markdown.
 | Foco: Resultados do dia-a-dia | 1/5                    |
 
 ___
-
+🥚🥓🍳
 
 > "Quanto mais a gente rala, mais a gente cresce" -Choris
