@@ -1,8 +1,8 @@
 # Git e Github Alura
 
-Diretório criado para por em prática o curso da alura.
+Diretório criado para por em prática os cursos da alura.
 
-Estarei proveitando o mesmo para praticar um pouco de Markdown.
+Estarei aproveitando o mesmo para praticar um pouco de Markdown.
 
 ## Cursos concluídos 
 
@@ -12,6 +12,7 @@ Estarei proveitando o mesmo para praticar um pouco de Markdown.
 | Hábitos e produtividade       | ![check](img/check.png)|
 | Git e GitHub                  | 2/6                    |
 | Foco: Resultados do dia-a-dia | 1/5                    |
+
 
 ___
 🥚🥓🍳
