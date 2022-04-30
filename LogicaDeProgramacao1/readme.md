@@ -1,5 +1,7 @@
+ <div style='text-align:right'>Conteúdo da <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" width="100"></div>
+
 # Lógica de programação
-## **Resumo**
+## **Resumo** "
 
 Utilizarei este readme para resumir, consolidar e futuramente recordar os assuntos abordados no curso.
 
@@ -112,7 +114,7 @@ for(n = 0; n < array.length; n++){
 ~~~
 
 
-## Comandos utilizados
+## **Comandos utilizados**
 ___
 - alert: Exibe um pop-up com um conteúdo no navegador.
 - break: Quebra uma repetição.
@@ -125,7 +127,7 @@ ___
 - Math.round: Arredonda números decimais.
 - parseInt: Converte um algarismo armazenado como *string* para número.
 - prompt: Exibe um pop-up com um input para o usuário;
-## Glossário
+## **Glossário**
 ---
 - input: Utilizado para instruir o computador a aguardar através do teclado
 - NaN: Abreviação de *Not a Number* ou traduzido como,não é um número.
