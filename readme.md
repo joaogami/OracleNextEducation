@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Lógica de programação
-=======
 # Git e Github Alura
 
 Diretório criado para por em prática os cursos da alura.
@@ -21,4 +19,3 @@ ___
 🥚🥓🍳
 
 > "Quanto mais a gente rala, mais a gente cresce" -Choris
->>>>>>> 513b32ec212b9325ee5e821745d367c8000fc240
