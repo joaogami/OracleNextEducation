@@ -1,9 +1,6 @@
-# Lógica de programação
-# Git e Github Alura
+# ONE - Oracle Next Education
 
-Diretório criado para por em prática os cursos da alura.
-
-Estarei aproveitando o mesmo para praticar um pouco de Markdown.
+Diretório criado para por em prática e armazenar os conteúdos dos cursos da alura durante o Oracle Next Education.
 
 ## Cursos concluídos 
 
