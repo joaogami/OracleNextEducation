@@ -1,7 +1,5 @@
- <div style='text-align:right'>Conteúdo da <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" width="100"></div>
-
 # Lógica de programação
-## **Resumo** "
+## **Resumo** 
 
 Utilizarei este readme para resumir, consolidar e futuramente recordar os assuntos abordados no curso.
 
@@ -22,7 +20,7 @@ document.write("texto" + 5 + "texto")
 
 ### **Variáveis**
 ___
-> Uma variável é um espaço na memória do computador destinado a um dade que é alterado durante a execução de um algoritmo.
+> Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução de um algoritmo.
 
 Através da criação e a atribuição de um valor à variável é possível otimizar o programa permitindo que façamos alteração em todo o código modificando apenas a variável desejada.
 
@@ -37,7 +35,7 @@ var cidade = "Betim - MG"
 ___
 >Uma função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos. 
 
-As funções permitem realizarmos uma serie de instruções a qualquer momento no decorrer do código e retornar um valor utilizando a tag *'return'* acompanhada do valor ou variável desejada.
+As funções permitem realizarmos uma serie de instruções a qualquer momento no decorrer do código e retornar um valor utilizando a tag *return* acompanhada do valor ou variável desejada.
 
 A função pode ou não receber parâmetros.
 
@@ -60,7 +58,7 @@ function imc(altura, peso){
 ___
 >Uma condição realiza uma operação lógica e retorna *true* ou *false*.
 
-Através da tag *'if( )'* é possivel realizar um teste lógico e se o resultado deste teste for verdadeiro ele executa os parâmetros dentro das chaves '{ }', caso seja falso podemos passar outro parâmetro com *'else'* ou ainda realizar mais testes com *'else if'*.
+Através da tag *if( )* é possivel realizar um teste lógico e se o resultado deste teste for verdadeiro ele executa as instruções dentro das chaves '{ }', caso seja falso podemos passar outro parâmetro com *else* ou ainda realizar mais testes com *else if*.
 
 ~~~javascript
 //condição
@@ -77,9 +75,9 @@ else{
 ___
 > Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
 
-Utilizando as tags *'while( )'* é possível realizar uma rotina repetidas vezes enquanto o valor de seu parâmetro (condição) for verdadeiro.
+Utilizando as tags *while( )* é possível realizar uma rotina repetidas vezes enquanto o valor de seu parâmetro (condição) for verdadeiro.
 
-Já o *'for( )'* permite uma inicialização com atribuição ou declaração de variável, uma condição que será o teste lógico, e um incremento que geralmente é usado para atualizar a variável do contador.
+Já o *for( )* recebe como parâmetros três informações: Uma inicialização com atribuição ou declaração de variável, uma condição que será o teste lógico, e um incremento que geralmente é usado para atualizar a variável do contador.
 ~~~javaScript
 //utilizando o while
     var n = 0;
@@ -110,7 +108,7 @@ alert(array[0]);
 for(n = 0; n < array.length; n++){
     alert("O valor armazenado no Índice " + n + " do array é " + array[n]);
 }
-//comando exibe todos os índices dos arrays
+//comando exibe o conteúdo de todos os índices dos arrays
 ~~~
 
 
@@ -129,7 +127,7 @@ ___
 - prompt: Exibe um pop-up com um input para o usuário;
 ## **Glossário**
 ---
-- input: Utilizado para instruir o computador a aguardar através do teclado
+- Input: Utilizado para instruir o computador a aguardar através do teclado
 - NaN: Abreviação de *Not a Number* ou traduzido como,não é um número.
 - String: Caracteres, geralmente utilizada para representar palavras, frases ou textos de um programa.
 - Undefined: Valor indefinido.
