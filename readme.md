@@ -9,7 +9,7 @@ Diretório criado para por em prática e armazenar os conteúdos dos cursos da a
 | Lógica de programação 1       | ![check](img/check.png)|
 | Hábitos e produtividade       | ![check](img/check.png)|
 | HTML e CSS parte 1            | ![check](img/check.png)|
-| Git e GitHub                  | 3/6                    |
+| Git e GitHub                  | 4/6                    |
 | Foco: Resultados do dia-a-dia | 1/5                    |
 
 
