@@ -1,4 +1,4 @@
-# ONE - Oracle Next Education
+# ONE - Oracle Next Education <div> em parceria com a <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" width="50"></div>
 
 Diretório criado para por em prática e armazenar os conteúdos dos cursos da alura durante o Oracle Next Education.
 
@@ -8,7 +8,8 @@ Diretório criado para por em prática e armazenar os conteúdos dos cursos da a
 |-------------------------|:--------------:|
 | Lógica de programação 1       | ![check](img/check.png)|
 | Hábitos e produtividade       | ![check](img/check.png)|
-| Git e GitHub                  | 2/6                    |
+| HTML e CSS parte 1            | ![check](img/check.png)|
+| Git e GitHub                  | 3/6                    |
 | Foco: Resultados do dia-a-dia | 1/5                    |
 
 
