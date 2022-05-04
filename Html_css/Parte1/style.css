@@ -14,5 +14,9 @@ p {
      font-size:20px
  }
 em strong {
-    color: red;
+    color: #FF0000;
    }
+.itens {
+    font-style: italic;
+
+}
