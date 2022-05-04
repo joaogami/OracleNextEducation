@@ -27,13 +27,10 @@ A abordagem GTD é implementada através de uma sequência de etapas. Essas etap
 ## Construção do Hábito
 ___
 De acordo com *Charles Duhigg*, altor do livro **O poder do hábito**, cada hábito que temos é composto por três componentes. O primeiro é a deixa, seguida da rotina e por fim a recompensa.
-
-<img src="https://s3.amazonaws.com/caelum-online-public/H%C3%A1bitos/2.png" width=600>
-
-    Exemplo:
-    -   Deixa: Vejo um livro na minha cabeceira da cama na hora de dormir.
-    - Rotina: a rotina é eu ler até ter vontade de dormir.
-    - Recompensa: Sono tranquilo e sentimento de que fiz a leitura do dia. A recompensa é quem vai ajudar o meu cérebro a saber se vale a pena memorizar este loop específico para o futuro.
+Exemplo:
+- Deixa: Entro no transporte público.
+- Rotina: Abrir o aplicativo e estudar um novo idioma.
+- Recompensa: Aprendo um novo idioma um pouco mais a cada dia.
 <img src="https://s3.amazonaws.com/caelum-online-public/H%C3%A1bitos/6.png">
 
 ## Pomodoro 🍅
@@ -51,11 +48,23 @@ ___
 
 ## Sugestão de Aplicativos
 ___
-* Evernote
-* Mindmeister
-* Meister Task
-* Marinara: Assintente Pomodoro
-* Momentum
-* Toodledo
-* ColorNote
-* Kanban Task List
+## [Evernote](https://evernote.com/intl/pt-br)
+    Evernote é um software destinado a organização da informação pessoal mediante um arquivo de notas.
+
+## [Mindmeister](https://www.mindmeister.com/pt)
+    O MindMeister é um aplicativo de mapeamento mental on-line que permite que seus usuários visualizem, compartilhem e apresentem seus pensamentos através da nuvem
+## [Meister Task](https://www.meistertask.com/pt)
+    O Meister Task é uma intuitiva ferramenta de colaboração e gestão de tarefas.
+## [Marinara: Assintente Pomodoro](https://chrome.google.com/webstore/detail/marinara-pomodoro®-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=pt-BR)
+    Extenção para o navegador com o timer do pomodoro para organização do tempo
+## [Momentum](https://momentumdash.com)
+
+## [Toodledo](https://www.toodledo.com)
+    Toodledo é um conjunto de ferramentas  para aumentar sua produtividade e organizar sua vida. M
+## [ColorNote](https://www.colornote.com)
+    
+    Aplicativo de notas
+
+## [Kanban Task List](https://kanbantool.com/product)
+
+    O foco do Kanban é priorizar a produtividade e a organização das entregas. O objetivo é proporcionar um trabalho mais transparente e direcionado. 
