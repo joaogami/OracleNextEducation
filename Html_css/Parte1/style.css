@@ -1,14 +1,37 @@
-body {
+.principal{
     background: #CCCCCC;
+    border-radius: 20px;
 }
 #banner{
     width:100%;
+}
+.titulo-centralizado{
+    padding-left: 20px;
+    text-align: center;
 }
 h1 {
     text-align: center;
 }
 p {    
      text-align: center;
+ }
+ .beneficios{
+     background: gray;
+     padding: 20px;
+     border-radius: 10px;
+ }
+ h2{
+     text-align: center;
+ }
+ ul{
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+ }
+ .imgBeneficios{
+     width: 50%
+     
  }
  #missao{
      font-size:20px
