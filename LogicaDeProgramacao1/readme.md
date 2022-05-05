@@ -127,7 +127,7 @@ ___
 - prompt: Exibe um pop-up com um input para o usuário;
 ## **Glossário**
 ---
-- Input: Utilizado para instruir o computador a aguardar através do teclado
+- Input: Utilizado para instruir o computador a guardar um valor através do teclado
 - NaN: Abreviação de *Not a Number* ou traduzido como,não é um número.
 - String: Caracteres, geralmente utilizada para representar palavras, frases ou textos de um programa.
 - Undefined: Valor indefinido.
