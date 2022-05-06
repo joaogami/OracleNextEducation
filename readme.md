@@ -9,7 +9,7 @@ Diretório criado para por em prática e armazenar os conteúdos dos cursos da a
 | Lógica de programação 1       | ![check](img/check.png)|
 | Hábitos e produtividade       | ![check](img/check.png)|
 | HTML e CSS parte 1            | ![check](img/check.png)|
-| HTML e CSS parte 2            | 3/7                    |
+| HTML e CSS parte 2            | 4/7                    |
 | Foco: Resultados do dia-a-dia | 1/5                    |
 
 
