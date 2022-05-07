@@ -2,6 +2,8 @@
 
 Diretório criado para por em prática e armazenar os conteúdos dos cursos da alura durante o Oracle Next Education.
 
+Após meu curso técnico perdi meu HD externo com todo conteúdo de um ano e meio de estudo. Agora com o Github terei um backup dos conteúdos.
+
 ## Cursos concluídos 
 
 | **Curso**                   | **Conclusão** |
@@ -9,8 +11,8 @@ Diretório criado para por em prática e armazenar os conteúdos dos cursos da a
 | Lógica de programação 1       | ![check](img/check.png)|
 | Hábitos e produtividade       | ![check](img/check.png)|
 | HTML e CSS parte 1            | ![check](img/check.png)|
-| HTML e CSS parte 2            | 4/7                    |
-| Foco: Resultados do dia-a-dia | 1/5                    |
+| HTML e CSS parte 2            | ![check](img/check.png)|
+| Foco: Resultados do dia-a-dia | 2/5                    |
 
 
 ___

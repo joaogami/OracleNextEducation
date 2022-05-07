@@ -44,6 +44,16 @@ nav a:hover{
     border: 2px solid #000000;
     border-radius: 10px;
 }
+.produtos li:hover{
+    border-color: #C78C19;
+    font-size: 34px;
+}
+.produtos li:hover h2{
+    font-size: 40px;
+}
+.produtos li:active{
+    border-color: #088C19
+}
 .produtos h2{
     font-size: 30px;
     font-weight: bold;
@@ -56,4 +66,14 @@ nav a:hover{
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+footer{
+    background: url("img/bg.jpg");
+    text-align: center;
+    padding: 40px 0; 
+}
+.copyright{
+    color:#ffffff;
+    font-size:12px;
+    padding-top: 20px 0 0;
 }
