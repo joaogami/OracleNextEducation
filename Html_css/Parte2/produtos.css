@@ -35,7 +35,7 @@ nav a:hover{
 }
 .produtos li{
     display: inline-block;
-    text-align: center;
+    
     width: 30%;
     vertical-align: top;
     margin: 0 1.5%;
