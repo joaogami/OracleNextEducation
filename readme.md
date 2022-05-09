@@ -12,7 +12,9 @@ Após meu curso técnico perdi meu HD externo com todo conteúdo de um ano e mei
 | Hábitos e produtividade       | ![check](img/check.png)|
 | HTML e CSS parte 1            | ![check](img/check.png)|
 | HTML e CSS parte 2            | ![check](img/check.png)|
+| JavaScript                    | 1/9                    |
 | Foco: Resultados do dia-a-dia | 2/5                    |
+
 
 
 ___
