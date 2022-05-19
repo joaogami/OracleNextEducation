@@ -11,7 +11,7 @@ Após meu curso técnico perdi meu HD externo com todo conteúdo de um ano e mei
 | Lógica de programação 1       | ![check](img/check.png)|
 | Hábitos e produtividade       | ![check](img/check.png)|
 | HTML e CSS parte 1 2 e 3      | ![check](img/check.png)|
-| JavaScript                    | 1/9                    |
+| JavaScript                    | 3/9                    |
 | Foco: Resultados do dia-a-dia | 2/5                    |
 
 
