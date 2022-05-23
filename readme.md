@@ -2,7 +2,7 @@
 
 Diretório criado para por em prática e armazenar os conteúdos dos cursos da alura durante o Oracle Next Education.
 
-Após meu curso técnico perdi meu HD externo com todo conteúdo de um ano e meio de estudo. Agora com o Github terei um backup dos conteúdos.
+Após meu curso técnico perdi meu HD externo com todo conteúdo de um ano e meio de estudo. Agora com o Github terei um backup remoto e prático dos conteúdos, podendo estudar de qualquer máquina no tempo livre.
 
 ## Cursos concluídos 
 
