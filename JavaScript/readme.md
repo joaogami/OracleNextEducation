@@ -33,4 +33,4 @@ A função <code>event.preventDefault()</code> previne o comportamento padrão d
 ~~~javascript
     variavelPai.appendChild(variavelFilho);
 ~~~
-A função <code>appendChild</code> permite colocar um elemento 'filho'  dentro de outro elemento 'pai', como um <code><td></code> dentro de uma <code><tr></code>
+A função <code>appendChild</code> permite colocar um elemento 'filho'  dentro de outro elemento 'pai', como um <code>td</code> dentro de uma <code>tr</code>
