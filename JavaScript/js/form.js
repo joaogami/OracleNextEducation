@@ -1,22 +1,26 @@
 var botaoAdicionar = document.querySelector("#adicionar-paciente");
 
-botaoAdicionar.addEventListener("click", function(){
+botaoAdicionar.addEventListener("click", function(event){
     event.preventDefault();
     
     var form = document.querySelector("#form-adiciona");
     var paciente = obtemPacienteDoFormulario(form);
-    var pacienteTr = montaTr(paciente);
-
-    var tabela = document.querySelector("#tabela-pacientes");
-    var erros = validaPaciente(paciente);
-    if(erros.lenght > 0){
-
-    } 
-    tabela.appendChild(pacienteTr);
     
+    
+    var erros = validaPaciente(paciente);
+    if(erros.length > 0){
+        exibeMensagemDeErro(erros);
+        return;
+    }
+    var tabela = document.querySelector("#tabela-pacientes");
+    var pacienteTr = montaTr(paciente);
+    tabela.appendChild(pacienteTr);
 
     form.reset();
-})
+
+    var mensagensErro = document.querySelector("#mensagens-erro");
+    mensagensErro.innerHTML = "";
+});
 
     function obtemPacienteDoFormulario(form){
         var paciente = {
@@ -53,17 +57,17 @@ botaoAdicionar.addEventListener("click", function(){
     function validaPaciente(paciente){
 
         var erros = [];
-
-        if(paciente.nome.lenght == 0){
+        
+        if(paciente.nome.length == 0){
             erros.push("O Nome não pode ser em branco");
         }
-        if(paciente.gordura.lenght == 0){
+        if(paciente.gordura.length == 0){
             erros.push("A gordura não pode ser em branco");
         }
-        if(paciente.peso.lenght == 0){
+        if(paciente.peso.length == 0){
             erros.push("O peso não pode ser em branco")
         }
-        if(paciente.altura.lenght == 0){
+        if(paciente.altura.length == 0){
             erros.push("A altura não pode ser em branco")
         }
         if(!validaPeso(paciente.peso)){
@@ -73,4 +77,16 @@ botaoAdicionar.addEventListener("click", function(){
             erros.push("Altura é inválida")
         }
         return erros;
+    }
+
+    function exibeMensagemDeErro(erros){
+
+        var ul = document.querySelector("#mensagens-erro");
+        ul.innerHTML = "";
+
+        erros.forEach(function(erro){
+            var li = document.createElement("li");
+            li.textContent = erro;
+            ul.appendChild(li);
+        })
     }
